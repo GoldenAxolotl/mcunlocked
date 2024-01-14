@@ -1,5 +1,15 @@
 # MC Unlocked
+IF YOU ARE GOING TO USE THIS OPEN-SOURCE CODE CREDIT COPYRIGHT OWNER
+EXAMPLE:
+[Name Of User] is using a Open-Source Code from GoldenAxolotl [https://github.com/GoldenAxolotl/mcunlocked]
+OR
+I am using a open-source code from golden.axolotl on Discord from https://github.com/GoldenAxolotl/mcunlocked
+
+NOT USING ANY OF THESE EXAMPLES OR NOT CREDITING THE OWNER WILL
+RESULT IN YOUR PROJECT BEING TAKEN DOWN!!!
+
 Minecraft Plugins &amp; Mods for FREE
+
 Copyright [2024] [George]
 
 Licensed under the Apache License, Version 2.0 (the "License");
